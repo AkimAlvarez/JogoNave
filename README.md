@@ -32,7 +32,7 @@ Este projeto foi construído focando nos conceitos de **Programação Orientada 
 3. Crie um ambiente virtual
    python -m venv .venv
    source .venv/bin/activate  # No Linux/Mac
-   # ou .venv\Scripts\activate no Windows
+   ou .venv\Scripts\activate no Windows
 
 4. Instale as dependências
    pip install pygame
@@ -41,7 +41,8 @@ Este projeto foi construído focando nos conceitos de **Programação Orientada 
    python main.py
 
 🛠️ Tecnologias Utilizadas
-    Python 3.13
-    Pygame 2.6
+   
+      Python 3.13
+      Pygame 2.6
 
   
