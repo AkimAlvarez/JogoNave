@@ -27,18 +27,22 @@ Este projeto foi construído focando nos conceitos de **Programação Orientada 
    ```bash
    git clone [https://github.com/SeuUsuario/JogoNave.git](https://github.com/SeuUsuario/JogoNave.git)# JogoNave
 2.Entre na pasta do projeto
-  cd JogoNave
+  
+         cd JogoNave
   
 3. Crie um ambiente virtual
-   python -m venv .venv
-   source .venv/bin/activate  # No Linux/Mac
-   ou .venv\Scripts\activate no Windows
 
-4. Instale as dependências
-   pip install pygame
+         python -m venv .venv
+         source .venv/bin/activate  # No Linux/Mac
+         ou .venv\Scripts\activate no Windows
 
-5. Inicie um jogo
-   python main.py
+5. Instale as dependências
+
+         pip install pygame
+
+7. Inicie um jogo
+
+         python main.py
 
 🛠️ Tecnologias Utilizadas
    
